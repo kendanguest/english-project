@@ -8,7 +8,7 @@ Click on [this link](https://nbcat7.github.io/english-project/) and click anywhe
 
 ## How I created this
 
-This was made using the p5 game engine in Microsoft VSCode. Every coordinate and every movement was handcoded by me.
+This was made using the p5 game engine in Microsoft VSCode. Every coordinate and every movement was handcoded by me. The coding file is named "sketch.js".
 
 ## How I sourced the images
 
