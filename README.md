@@ -4,7 +4,7 @@ This is my 2023 English Final, it is made out of AI generated images, a simple p
 
 ## How to run the presentation
 
-Click on [this link](https://nbcat7.github.io/english-project/) and click anywhere to navigate from scene to scene.
+Click on [this link](https://kendanguest.github.io/english-project/) and click anywhere to navigate from scene to scene.
 
 ## How I created this
 
